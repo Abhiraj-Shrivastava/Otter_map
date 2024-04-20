@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+
+.map-container {
+  width: 100%;
+  height: 700px;
+}
+
+.drawing-tools {
+  margin-top: 10px;
+}
+
+.measurement {
+  margin-top: 10px;
+}
