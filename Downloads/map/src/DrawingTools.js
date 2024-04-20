@@ -83,7 +83,7 @@ const DrawingTools = () => {
 
   return (
     <div>
-      
+      <div id="map" className="map" style={{ width: '100%', height: '600px' }}></div>
       <div className="drawing-tools">
         <button onClick={() => startDrawing('Polygon')}>Draw Polygon</button>
         <button onClick={() => startDrawing('Point')}>Draw Point</button>
